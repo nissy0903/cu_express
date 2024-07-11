@@ -88,3 +88,17 @@ function onListening() {
     : 'port ' + addr.port;
   debug('Listening on ' + bind);
 }
+
+/*
+■実習用サーバのホスト名 : jsfw.p.cyber-u.ac.jp
+
+■実習用サーバのIPアドレス : 153.120.121.157
+
+■ログインID : cu2301310011
+
+■パスワード :a9vyH2t.D
+
+■ポート番号 :30008
+
+
+*/
